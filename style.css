@@ -1,0 +1,164 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Wrapper{
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    padding: 15px;
+    padding-left: none;
+    justify-content: space-between;
+    width: 100%;
+    height: 10%;
+    background-color: #311C51;
+}
+.Brand{
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 115px;
+}
+
+.firstname{
+    color: white;
+    font-weight: 700;
+}
+
+.lastname{
+    color: white;
+    font-weight: 700;
+    padding-left: 4px;
+
+}
+
+.navigation{
+    padding-right: 90px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigation >li {
+    list-style-type: none;
+    padding: 15px;
+
+
+}
+
+.navigation >li>a{
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    text-indent: 10%;
+    color:#ffffff;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-indent: 10%;
+    color:#ffffff;
+}
+.tulisan{
+    
+    display: block;
+    margin-right: 500px;
+    margin-left: 130px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-indent: 0%;
+    color:#ffffff;
+}
+img {
+    margin: 5px;
+    float: right;
+    width: 230px;
+    margin-left: 100px;
+    margin-right: 130px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+
+.floating-box {
+    float:right;
+    align-items: center;
+    background-color: #311C51;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 80px;
+    text-align:center;
+    color: #ffffff; 
+     }
+
+
+     .sosmed{
+        border: 4px #69D2E7;
+     }
+     .sosmed>img {
+            height: px;
+            background-color: #69D2E7;
+            clear:both;
+            border-color: black;
+            font-family:Open Sans;
+        }
+        
+        #footer a {
+          display: inline-block;
+          margin-right: 5px;
+        }
+        
+        #footer img a {
+          width: auto;
+          height: 10px;
+          max-height: 10px;
+        }
+
+
+
+        .footer{
+            padding-bottom: 80px;
+            display: flex;
+            align-items: center;
+            font-size: 5px;
+            padding: 15px;
+            padding-left: none;
+            justify-content: space-between;
+            width: 100%;
+            height: 10%;
+            background-color: #311C51;
+        }
+        .footer2{
+            font-size: 60px;
+            display: flex;
+            flex-direction: row;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #311C51;
+            padding-left: 115px;
+        }
+
+        .ending{
+            color: #311C51;
+            float: right;
+            font-weight: 10;
+            font-size: 200px;
+        }
+    
